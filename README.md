@@ -5,9 +5,6 @@ A MERN-stack fitness tracker app.
 - [Description](#description)
 - [Technology](#Technology)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Questions](#questions)
 
 
 ## Description:
@@ -31,14 +28,3 @@ To run this project, install it locally using npm:
 ```
 npm install
 ```
-
-## Usage
-
-After installing npm packages, the application will be invoked by using the following command:
-
-```
-npm run develop
-```
-
-[Click me to see the app!]()
-
