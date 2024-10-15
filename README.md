@@ -1,6 +1,14 @@
 # FitTrack
 A MERN-stack fitness tracker app.
 
+## Table of Contents
+- [Description](#description)
+- [Technology](#Technology)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Questions](#questions)
+
 
 ## Description:
 
